@@ -74,7 +74,7 @@
 
 ---
 
-## ⚙️ Гиперпараметры
+## Гиперпараметры
 
 | Параметр | Значение | Описание | Обоснование |
 |:---|:---|:---|:---|
@@ -88,14 +88,14 @@
 
 ---
 
-## 🛠️ Стек
+## Стек
 
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-FFD43B?logo=python&logoColor=black)
 
-## ⚙️ Запуск
+## Запуск
 
 ### Зависимости
 
